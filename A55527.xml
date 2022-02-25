@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A small table to find the day of the month for ever Which may be graven upon a piece of coine, the case of a watch, a tobaccho-box, or any such like. Very usefull for men of all sorts and qualities, to carry about them. Invented, and at first intended onely for private use, by W. Potter.</title>
+            <author>Potter, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55527</idno>
+            <idno type="STC">Wing P3035</idno>
+            <idno type="STC">ESTC R218339</idno>
+            <idno type="EEBO-CITATION">99829943</idno>
+            <idno type="PROQUEST">99829943</idno>
+            <idno type="VID">34390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55527)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2014:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A small table to find the day of the month for ever Which may be graven upon a piece of coine, the case of a watch, a tobaccho-box, or any such like. Very usefull for men of all sorts and qualities, to carry about them. Invented, and at first intended onely for private use, by W. Potter.</title>
+                  <author>Potter, William.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.W. for R.E. are to b [sic] sold at the seven Starrs neer the North dore of Pauls Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page is illustrated with a table.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ready-reckoners --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34390:1"/>
+            <p>A SMALL TABLE TO Find the day of the Month for ever.</p>
+            <p>Which may be graven upon a piece of Coine, the caſe of a Watch, a Tobaccho-box, or any ſuch like.</p>
+            <p>Very uſefull for men of all ſorts and qualities, to carry about them.</p>
+            <p>Invented, and at firſt intended onely for private uſe,
+By <hi>W. Potter.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" rows="2">The Table<lb/> of months.</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                     <cell>4</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>9.1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell role="label" rows="5">The Table<lb/> of Dayes.</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                     <cell>12</cell>
+                     <cell>13</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>16</cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                     <cell>19</cell>
+                     <cell>20</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>23</cell>
+                     <cell>24</cell>
+                     <cell>25</cell>
+                     <cell>26</cell>
+                     <cell>27</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>30</cell>
+                     <cell>31</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. W.</hi> for <hi>R. E.</hi> are to b ſold at the ſeven Starrs neer the North dore of <hi>Pauls</hi> Church. 1655.</p>
+            <pb facs="tcp:34390:2" rendition="simple:additions"/>
+            <pb facs="tcp:34390:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34390:3"/>
+            <pb facs="tcp:34390:3"/>
+            <head>A ſmall Table to find the day of the moneth for ever.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough the Table hereaf<g ref="char:EOLhyphen"/>ter expreſſed is no Invention worthy the owning in Print, and is now above ten yeares ſince communicated to divers of my friends, and by them, to many whoſe faces I never ſaw, yet having been of late much preſſed by ſeverall of my ac<g ref="char:EOLhyphen"/>quaintance, to publiſh a word or two in relation to the uſe thereof, I thought fit to yield thereunto ſo far as to ſhew how the day of the Moneth for any year to come (being the principall end for which it was Invented) might be diſ<g ref="char:EOLhyphen"/>covered thereby.</p>
+            <p>YOU may obſerve, that the two up<g ref="char:EOLhyphen"/>permoſt lines in this Table are divi<g ref="char:EOLhyphen"/>ded from the reſt by a double ſtroke, and
+<pb n="4" facs="tcp:34390:4"/>do ſerve to expreſs the Moneths, ac<g ref="char:EOLhyphen"/>cording
+<table>
+                  <row>
+                     <cell role="label" rows="2">The Table of<lb/> Months.</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                     <cell>4</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>9.1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell role="label" rows="5">
+                        <hi>The Table<lb/> of Dayes.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                     <cell>12</cell>
+                     <cell>13</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>16</cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                     <cell>19</cell>
+                     <cell>20</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>23</cell>
+                     <cell>24</cell>
+                     <cell>25</cell>
+                     <cell>26</cell>
+                     <cell>27</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>30</cell>
+                     <cell>31</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+to their Numeral order; for <hi>March</hi> being the firſt Moneth (the Sun then entring <hi>Aries</hi>) is expreſſed by the figure. 1. <hi>April,</hi> the 2. Moneth, by the figure 2. according to which order, <hi>September</hi> is the 7. <hi>October</hi> the 8. <hi>November</hi> the 9. and <hi>December</hi> the tenth Moneth, as their names do ſignifie; and are expreſ<g ref="char:EOLhyphen"/>ſed in the aforeſaid Table by their cor<g ref="char:EOLhyphen"/>reſpondent numbers.</p>
+            <p>Thus you have in the firſt Collumne towards the left hand, the fift and the ſe<g ref="char:EOLhyphen"/>cond Moneth, in the ſecond Collumne the ſeventh and the tenth Moneth, in the third Collumne the fourth Moneth, in the fourth Collumne the twelfth, ninth and firſt Moneth (for note, that the figures 9. and 1. though they both ſtand in one ſquare, ſignifie two Moneths, <hi>viz.</hi> both <hi>November</hi> and <hi>March</hi>) in the fift Collumne you
+<pb n="5" facs="tcp:34390:4"/>have the ſixt Moneth, that is <hi>Auguſt,</hi> and ſo of the reſt.</p>
+            <p>The figures below the ſaid double line do ſignifie dayes, as hereafter doth appear.</p>
+            <p>To find the day of the Moneth at a<g ref="char:EOLhyphen"/>ny time, obſerve that thoſe dayes which ſtand right under any Moneth are al<g ref="char:EOLhyphen"/>wayes the firſt dayes of the week, (com<g ref="char:EOLhyphen"/>monly called <hi>Sundayes</hi>) for this preſent yeare 1655.</p>
+            <p>Thus if you look for <hi>March,</hi> (which is the firſt Moneth,) you ſhall find it in the fourth Collumne, and right under<g ref="char:EOLhyphen"/>neath the ſame, you ſhall find the fi<g ref="char:EOLhyphen"/>gures, 4. 11. 18. 25. All which ſhew that the fourth of <hi>March</hi> this year, is <hi>Sunday,</hi> and alſo the 11. 18. and 25. So you ſhall find <hi>April,</hi> which is the ſe<g ref="char:EOLhyphen"/>cond Moneth in the firſt Collumne to<g ref="char:EOLhyphen"/>wards the left hand, and underneath the ſame, 1. 8. 15. &amp;c. and <hi>Auguſt</hi> which is the ſixt Moneth in the fift Collumne, and underneath the ſame 5. 12. 19. &amp;c. All which dayes being right under their
+<pb n="6" facs="tcp:34390:5"/>reſpective Moneths) are <hi>Sundayes.</hi>
+            </p>
+            <p>Now when you would find the day of the Moneth by the aforeſaid Table, you muſt Conſider as in the Caſe of the common Almanacks, what Moneth and what day of the week it is; And then you muſt enter the Table for that Moneth and underneath the ſame you have (I ſay) the Collumne of <hi>Sundayes,</hi> the next after which is the Collumne of <hi>Mondayes,</hi> and the next after that of <hi>Tueſdayes;</hi> and ſo you muſt paſs from one Collumne to another, till you come to that Collumne which Anſwers to the preſent day of the week; where ac<g ref="char:EOLhyphen"/>cording as the Moneth is neer the be<g ref="char:EOLhyphen"/>ginning, middle, or ending thereof, you will find your deſire; as for example,</p>
+            <p>It is the third day of the week, and the beginning of <hi>Auguſt</hi> in this year 1655. I would know what day of the Moneth it is?</p>
+            <p>
+               <hi>Anſw.</hi> Entring the Table of Months, I find <hi>Auguſt,</hi> which is the ſixt Moneth, in the fift Collumne, and right under<g ref="char:EOLhyphen"/>neath
+<pb n="7" facs="tcp:34390:5"/>the ſame 5. 12. 19. 26, theſe are the firſt dayes of the week for that Month. The next Collumne therefore towards the right hand (<hi>viz.</hi> 6. 13. &amp;c.) are the ſecond dayes of the week; and the next beyond that, <hi>viz.</hi> 7. 14. &amp;c. are the third dayes of the week which are the dayes I ſeek for. Being there<g ref="char:EOLhyphen"/>fore now about the beginning of <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> and the third day of the week, I Conclude thereupon that it is the 7. day of the Moneth.</p>
+            <p>It is now about the later end of <hi>June,</hi> which is the fourth Moneth, and the fourth day of the week, in the aforeſaid year, I deſire to know what day of the Moneth it is?</p>
+            <p>
+               <hi>Anſw.</hi> I find <hi>June</hi> in the third Col<g ref="char:EOLhyphen"/>lumne, which third Collumne being <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he firſt dayes of the week in that Month, I paſs from thence to the next Collumne, for the ſecond dayes of the week, and to the next for the third dayes of the week, and to the next beyond that for the fourth, where I find 6. 13. 20. 27.
+<pb n="8" facs="tcp:34390:6"/>whereby I conclude, it is now the 27. day of the Moneth.</p>
+            <p>So for <hi>May</hi> (which is the third Month,) you ſhall find it in the ſixt Collumne, whereby you may perceive that the firſt dayes of the week are 6. 13. 20. 27. the 2<hi rend="sup">d</hi>. days of the week 7. 14. 21. &amp;c. the third dayes of the week 1. 8. 15. &amp;c. (according as you find them in the firſt Collumne towards the left hand) the fourth dayes of the week 2. 9. 16. &amp;c.</p>
+            <p>Thus alſo if for ſpeed, you deſire to accompt backwards, as (ſuppoſe) in <hi>No<g ref="char:EOLhyphen"/>vember,</hi> (which is found in the fourth Collumne,) and underneath the ſame 4. 11. 18. &amp;c. which are the firſt dayes of the week, therefore going backwards towards the left hand 3. 10. 17. are the ſeventh dayes of the week for that Moneth; and 2. 9. 16. &amp;c. are the ſixt dayes of the week; and 1. 8. 15. the 5. dayes of the week, for that Moneth.</p>
+            <p>You muſt further obſerve, that ſeve<g ref="char:EOLhyphen"/>rall yeares anſwer to ſeverall dayes of the week; So that as this year, anſwers to the firſt day of the Week, ſo there
+<pb n="9" facs="tcp:34390:6"/>are other years that Anſwer to the 2. to the 3. to the fourth, and ſo on; (which thoſe others are, I ſhal ſhew immediatly.</p>
+            <p>Now as in this year, that anſwers to the firſt dayes, all the dayes right under each Moneth are the firſt dayes of the Week for that Moneth; ſo in a year that anſwers to the third day of the Week, all the dayes under each Moneth, are the third dayes of the Week in that Moneth, and the dayes in the Collumne next following are the fourth dayes, and next following that the fift dayes of the Week, &amp;c. and the dayes next going before thoſe right underneath the ſaid Moneth, are the ſecond dayes of the Week, and thoſe next before them the firſt dayes, &amp;c.</p>
+            <p>As for example, ſuppoſe it were <hi>June,</hi> which is the fourth Moneth in a year, that anſwers to the third day of the Week, <hi>viz.</hi> Tueſday: I enter the table and find <hi>June</hi> in the third Collumn; and the dayes right underneth it, are 3. 10. 17. which therefore are all Tueſ<g ref="char:EOLhyphen"/>dayes,
+<pb n="10" facs="tcp:34390:7"/>the dayes following in the next Collumne are 4. 11. 18. &amp;c. which therefore are all Wedneſdayes, and the dayes following in the next Collumne, 5. 12. 19. which are all Thurſdayes, &amp;c. So if I go backwards, the dayes next be<g ref="char:EOLhyphen"/>fore the ſaid 3. 10. 17. which are I ſay, Tueſdayes, are 2. 9. 16. which are Mon<g ref="char:EOLhyphen"/>dayes, and thoſe next before them. 1. 8. 15. which are Sundayes, and thoſe next before them 7. 14. 21. which are Satur<g ref="char:EOLhyphen"/>dayes.</p>
+            <p>So if the year ſhould anſwer to the 5. day of the week, which is Thurſday, then in this fourth Moneth, <hi>viz. June,</hi> the figures underneath the ſame being 3. 10. 17. are all Thurſdayes; and thoſe next following 4. 11. 18. Fridayes, thoſe next before, <hi>viz.</hi> 2. 9. 16. Wedneſ<g ref="char:EOLhyphen"/>dayes.</p>
+            <p>That you may know what day of the week anſwers to every year; Note that if the preſent year anſwer (ſuppoſe) to the 5. day of the week, then (except in the caſe of leape year) the next year
+<pb n="11" facs="tcp:34390:7"/>anſwers to the ſixt day of the week, the next to the ſeventh, the next to the firſt, the next to the ſecond, and ſo on in or<g ref="char:EOLhyphen"/>der to the end of the World.</p>
+            <p>Note further, that every leape year hath two dayes belonging to it, where<g ref="char:EOLhyphen"/>of one continues all <hi>January</hi> and <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> and the other, all the reſt of the Moneths, and then for the 3. years fol<g ref="char:EOLhyphen"/>lowing the ſame day continues (as is ſaid) from one new years day to ano<g ref="char:EOLhyphen"/>ther: Where note that the alteration for all yeares, (except leape year,) begins at new years day, and not in <hi>March.</hi>
+            </p>
+            <p>Thus this year 1655. reckoned from New-years-day, which was in 1654. till the next New-years-day, anſwers I ſay, to the firſt day of the Week, and the next year being leape yeare, all <hi>January</hi> and <hi>February,</hi> anſwers to the ſecond day of the week, and the reſt of the Moneths till New-years-day, to the third day of the Week; and all the year following that, to the fourth; all the year next following to the fift, the next
+<pb n="12" facs="tcp:34390:8"/>yeare to the ſixt, and then the next yeare being leape yeare again (for every fourth yeare is leape yeare) <hi>January</hi> and <hi>February</hi> therein anſwer to the 7. day of the week, And the Moneths following till New-years-day to the firſt day of the week; and ſo the 3. yeares following to the ſecond, the third and the fourth dayes of the week; and ſo for ever ac<g ref="char:EOLhyphen"/>cording to this Table following,</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>years</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>days</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1655</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>1656</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>1656</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>1657</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>1658</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>1659</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>1660</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>1660</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>1661</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>1662</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>1663</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>1664</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>1664</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>1665</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>1666</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>1667</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>1668</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>1668</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>1669</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>1670</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>1671</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>1672</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>1672</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>1673</cell>
+                     <cell>3</cell>
+                  </row>
+               </table>
+            </p>
+            <p>I ſhall cleer the meaning of this Table by one Inſtance or two.</p>
+            <p>I deſire to know what day of the week anſwers to the year 1661.</p>
+            <p>
+               <label>Anſw.</label> I enter the Table, and find, that year, and againſt the ſame, the fi<g ref="char:EOLhyphen"/>gure
+<pb n="13" facs="tcp:34390:8"/>2. which ſheweth, that the ſecond day of the week anſwers to that yeare.</p>
+            <p>Again, I deſire to know what day of the week anſwers to the year 1660.</p>
+            <p>
+               <hi>Anſw.</hi> I enter the Table, and find that year twice expreſſed, and againſt it I find firſt the figure 7. and next the fi<g ref="char:EOLhyphen"/>gure 1. So that I conclude it is a leape year; and that the firſt part of the year <hi>viz.</hi> the Moneth, of <hi>January</hi> and <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> anſwer to the 7. day of the week; and that the reſt of the Months anſwers to the firſt dayes of the Week.</p>
+            <p>Now though I have expreſſed all this in a Table, to ſhew the Orderly Succeſſion thereof, yet it will be no burden to any mans memo<g ref="char:EOLhyphen"/>ry to carry one day in his mind for a whole year together; and two dayes at the moſt in the caſe of leape year, or (knowing what day anſwers to the pre<g ref="char:EOLhyphen"/>ſent year) to reckon without a Table what day anſwers to the ſucceeding yeares, obſerving the orderly ſucceſſion thereof, as it is here expreſſed; which
+<pb n="14" facs="tcp:34390:9"/>might in like manner be continued to any number of yeares required.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34390:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
